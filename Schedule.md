@@ -24,6 +24,7 @@ Canvas</a>
 </th>
 </tr>
 </thead>
+</table>
 
 | Week | Topics | Code/Resources | Assignments Due |
 | ---- | ------ | -------------- | --------------- |
