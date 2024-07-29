@@ -27,6 +27,7 @@ Canvas</a>
 
 | Week | Topics | Code/Resources | Assignments Due |
 | ---- | ------ | -------------- | --------------- |
+| <img width=75/> |<img width=225/> | <img width=225/>| <img width=225/>|
 | **1** <br/> 9/5 | | | |
 | **2** <br/> 9/10 - 9/12 | | | |
 | **3** <br/> 9/17 - 9/19 | | | |
