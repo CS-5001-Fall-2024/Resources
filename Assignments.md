@@ -7,9 +7,9 @@
 <tr>
 <th width="750px">
 <p align="left">
-<a href="XXX">📚 Syllabus</a> 
+<a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Syllabus.md">📚 Syllabus</a> 
 ・
-<a href="XXX">🎯Assignments </a>
+<a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Assignments.md">🎯Assignments </a>
 </th>
 </p>
 
