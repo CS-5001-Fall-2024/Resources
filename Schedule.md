@@ -26,11 +26,241 @@ Canvas</a>
 </thead>
 </table>
 
-<!--| |<img width=225/> | <img width=1225/>| <img width=225/>|-->
+<table>
+<thead>
+<tr>
+<th width="75px">Week</th>
+<th width="225px">Topics</th>
+<th width="1225px">Code/Resources</th>
+<th width="225px">Assignments Due</th>
+</tr>
+</thead>
+
+<!-- Week 1 -->
+<tr>
+<td><b>1</b><br/>9/5</td>
+
+<!-- Topics -->
+<td>
+<a href="">Module 1</a><br/>
+<ul>
+<li>What is an algorithm?</li>
+</ul>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 2 -->
+<tr>
+<td><b>2</b><br/>9/10 - 9/12</td>
+
+<!-- Topics -->
+<td></td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 3 -->
+<tr>
+<td><b>3</b><br/>9/17 - 9/19</td>
+
+<!-- Topics -->
+<td></td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 4 -->
+<tr>
+<td><b>4</b><br/>9/24 - 9/26</td>
+
+<!-- Topics -->
+<td></td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 5 -->
+<tr>
+<td><b>5</b><br/>10/1 - 10/3</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+
+<!-- Week 6 -->
+<tr>
+<td><b>6</b><br/>10/8 - 10/10</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 7 -->
+<tr>
+<td><b>7</b><br/>10/15 - 10/17</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 8 -->
+<tr>
+<td><b>8</b><br/>10/22 - 10/24</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 9 -->
+<tr>
+<td><b>9</b><br/>10/29 - 10/31</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 10 -->
+<tr>
+<td><b>10</b><br/>11/5 - 11/7</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 11 -->
+<tr>
+<td><b>11</b><br/>11/12 - 11/14</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 12 -->
+<tr>
+<td><b>12</b><br/>11/19 - 11/21</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 13 -->
+<tr>
+<td><b>13</b><br/>11/26</td>
+
+<!-- Topics -->
+<td>
+<i>Fall break</i>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Week 14 -->
+<tr>
+<td><b>14</b><br/>12/3 - 12/5</td>
+
+<!-- Topics -->
+<td>
+</td>
+
+<!-- Resources -->
+<td></td>
+
+<!-- Assignments -->
+<td><b>Due</b></td>
+</tr>
+
+<!-- Finals Week -->
+<tr>
+<td colspan=4><b>Finals week</b><br/>12/9</td>
+</tr>
+
+
+</table>
+<!--
 
 | Week <br/> <img width=75/>| Topics <br/> <img width=225/> | Code/Resources <br/> <img width=1225/>| Assignments Due  <br/> <img width=225/>|
 | ---- | ------ | -------------- | --------------- |
-| **1** <br/> 9/5 | | | |
+| **1** <br/> 9/5 | Module 1 <br/> Module 2| | |
 | **2** <br/> 9/10 - 9/12 | | | |
 | **3** <br/> 9/17 - 9/19 | | | |
 | **4** <br/> 9/24 - 9/26 | | | |
@@ -44,3 +274,4 @@ Canvas</a>
 | **12** <br/> 11/19 - 11/21 | | | |
 | **13** <br/> 11/26 | Fall break | | |
 | **14** <br/> 12/3 - 12/5 | | | |
+-->
