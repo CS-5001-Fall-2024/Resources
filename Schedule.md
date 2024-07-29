@@ -44,7 +44,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="">Module 1</a><br/>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-1-getting-started">Module 1</a><br/>
 <ul>
 <li>What is an algorithm?</li>
 </ul>
