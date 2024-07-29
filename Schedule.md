@@ -1,8 +1,6 @@
 # CS 5001 - Fall 2024
 # Schedule
 
-:warning: <i>this schedule is subject to change!</i>
-
 <table>
 <thead>
 <tr>
@@ -27,6 +25,9 @@ Canvas</a>
 </tr>
 </thead>
 </table>
+
+:warning: <i>this schedule is subject to change!</i>
+
 
 <table>
 <thead>
