@@ -26,9 +26,10 @@ Canvas</a>
 </thead>
 </table>
 
-| Week | Topics | Code/Resources | Assignments Due |
+<!--| |<img width=225/> | <img width=1225/>| <img width=225/>|-->
+
+| Week <br/> <img width=75/>| Topics <br/> <img width=225/> | Code/Resources <br/> <img width=1225/>| Assignments Due  <br/> <img width=225/>|
 | ---- | ------ | -------------- | --------------- |
-| <img width=75/> |<img width=225/> | <img width=1225/>| <img width=225/>|
 | **1** <br/> 9/5 | | | |
 | **2** <br/> 9/10 - 9/12 | | | |
 | **3** <br/> 9/17 - 9/19 | | | |
