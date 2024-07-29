@@ -4,7 +4,7 @@
 <table>
 <thead>
 <tr>
-<th width="750px">
+<th width="1000px">
 <p align="left">
 <a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Syllabus.md">📚 Syllabus</a> 
 ・
@@ -14,7 +14,7 @@
 </th>
 </p>
 
-<th width="750px">
+<th width="500px">
 <p align="right">
 <a href="https://northeastern.instructure.com/courses/192359">
 <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01M7s52LIEYfk7SBpDgMLW-EcwM1JzO3N1A&s"/> 
