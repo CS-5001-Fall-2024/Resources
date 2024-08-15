@@ -1,6 +1,10 @@
 # CS 5001 - Fall 2024
 # Schedule
 
+<!-- https://emojidb.org/warning-emojis?utm_source=user_search -->
+<!-- https://gist.github.com/rxaviers/7360908 -->
+
+<!-- Header -->
 <table>
 <thead>
 <tr>

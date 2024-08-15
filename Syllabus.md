@@ -25,3 +25,134 @@ Canvas</a>
 </tr>
 </thead>
 </table>
+
+# Instructor Information
+
+**Instructor:** Sami Rollins (please call me Sami!)
+**Contact:** s.rollins@northeastern.edu or via Teams
+**Class and Recitaiton Location:** Graduate School of Business 125 
+**Office Hours:** To Be Announced
+**Office Hour Location:** To Be Announced
+
+# Teaching Assistant
+**TA:** Hsin-Yao Huang
+**Contact:** 
+**Office Hours:** To Be Announced
+**Office Hour Location:** To Be Announced
+
+# Class Hours
+Tuesday and Thursday 3:00pm - 4:40pm
+Recitation Thursday 4:50pm - 6:20pm
+
+In-person attendance is required for both lecture and recitation. 
+
+Students are expected to arrive on time and attend all classes; however, attendance will not be taken nor will it be part of the grading rubric. Material is not guaranteed to be available on-demand or remotely.
+
+Students who miss class for reasons of illness or personal emergency should communicate with the instructor early and often to arrange appropriate flexibility. Students who miss class for other reasons should not expect the instructor or TA to provide extra assistance to help them catch up on material covered in a missed class.
+
+Course Description
+This course introduces students to the principles of systematic problem solving through programming. Topics include analysis of problems, modeling a solution, data types, and control structures. Additionally, it will introduce various ways to organize data including a discussion of their advantages and disadvantages.
+
+Course Prerequisites: The course is suitable for students in the ALIGN MS in CS program. It assumes no previous programming experience. We're happy you're here!
+
+ Course Objectives:
+
+Develop a basic understanding of how to analyze and break down large problems in order to implement efficient solutions using the Python programming language.
+Determine functionality of code written by oneself and others through reading and tracing short segments of code.
+Write correct and clearly-documented small-to-medium sized programs that others can read, understand, and modify.
+Use generalization for data and functions to limit code duplication.
+Develop tests to exercise implemented code to ensure quality testing in the software development process.
+Select appropriate data types to represent information including using common library classes.
+Assess the impact of data structure and algorithm choice on the run time and storage space needed to execute a program.
+Course Resources
+The Course Schedule provides links to a library of videos specifically produced for Align students. These will serve as a useful foundation for your learning.
+
+There is no required text, but the following freely available books may be useful:
+
+How to Think Like a Computer ScientistLinks to an external site. by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+Welcome to Python for you and meLinks to an external site.
+Think Python, 2nd EditionLinks to an external site. by Allen B. Downey
+Free if you connect to O'Reilly Online via the NU library page for computer science: https://subjectguides.lib.neu.edu/compsci
+Announcements
+Announcements and class discussion will occur on the Microsoft Team set up for the class. Join the team here: CS 5001 - Spring 2024Links to an external site.
+
+Students are responsible for staying current on all announcements made via the class Team. You are expected to participate in discussion on Teams. Make sure to remain professional in your communications.
+
+Class Workload
+It is important for you to be highly engaged in this course. Like most programming courses, we are asking you to change the way you think so that you can express your thoughts to a computer. This is not an easy task.
+
+Students are expected to keep up with the material as it is released each week, to ask for help when they need it (or when feeling overwhelmed), to complete assignments on time, to actively participate in class discussions on Teams. Students are highly encouraged to help and support each other in appropriate ways. We can also often arrange for individual tutoring in cases where there is particular need, so please let me know if you feel you need additional help staying on top of the material.
+
+While this course is designed to for you to succeed, you will not unless you put the time in. In general, you should be prepared to spend 3-4 hours per credit hour. This means that you should plan on spending a minimum of 12-16 hours per week on this course.
+
+Assessment
+15% Labs (weekly)
+50% Projects (6)
+30% Exams (3)
+5% Quizzes and Participation
+Labs: Labs will be due weekly. Students are expected to work on labs during the recitation period and complete the exercises before the deadline. Unless otherwise noted, labs are to be completed individually. Labs generally consist of 4 - 8 shorter programming questions that focus on one or two computing concepts.
+
+Projects: Students will be assigned six projects to be completed individually unless otherwise noted. Projects are generally longer programs that require students to synthesize what they have learned over the previous weeks. The last project will be due during finals week in lieu of a final exam. Most projects will require an interactive demonstration and grading session with an instructor. Projects may not be resubmitted. All grades are final.
+
+Exams: There will be three (3) exams over the course of the semester in weeks 5, 10, and 14.. Since programming is, by nature, cumulative, so are the exams, although the emphasis will be on recent material. Students must earn a grade of B (83%) or better on at least two exams in order to pass this course. If a student earns below 83% on two or more exams they will be assigned a grade of F regardless of the final grade percentage. Exam make-ups will only be permitted due to extraordinary circumstances and should be communicated as soon as possible.
+
+Quizzes and Participation: You are expected to attend class, participate in class discussion, and participate in online discussion on Teams. Quizzes and other in-class exercises may be administered at any time. Failure to complete them as required during your assigned class period will result in a 0 on the assessment.
+
+Grading Scale:
+
+93.00–100.00   A
+
+ 90.00–92.99    A-
+
+86.00–89.99    B+
+
+83.00–85.99   B
+
+80.00–82.99    B-
+
+76.00–79.99    C+
+
+73.00–75.99   C
+
+70.00–72.99   C-
+
+0.00–69.99    F
+
+Policies
+Seeking Help: In any course, all students experience some difficulties and frustration and everyone (professor included) makes mistakes. Everybody needs help sometimes, and I would love to provide it! When it is your turn to have problems, do not suffer in silence! Talk to your professor immediately, before things become serious. You can do this via Teams, email, or Zoom. She wants to help you solve these problems and does not make any judgments. Because she cannot always know when trouble starts, you must take the initiative of making initial contact.
+
+Code Review: Any student may be asked to come in for code review for any assignment. A student who does not meet with the instructor for a code review in a timely manner will be given a 0 on the assignment in question. A student who is unable to explain their code; answer the instructor's questions about their code; or reproduce their code as expected may receive a deduction of up to 100%, resulting in a 0 on the assignment.
+
+Late Policy: All deadlines are firm. All Labs and Exams must be completed by the deadline. Projects must be completed by the deadline with the following exceptions:
+
+All students will be allowed one 24-hour extension without penalty to be used on a project of their choosing. This dispensation may only be used for one project.
+All students will be allowed one 24-hour extension with 15% penalty to be used on a project of their choosing. This dispensation may only be used for one project.
+If a student wishes to use both exceptions for the same project they may submit that project late by up to 48 hours for a penalty of 15%.
+
+To use your exception send the professor a Teams message or email in advance of the deadline.
+
+Further exceptions to this policy are made only in the case of a verifiable medical or family emergency. Extensions and makeup exams must be arranged PRIOR to the original deadline unless in case of extreme emergency (such as an emergency room visit).
+
+Students who have legitimate, personal circumstances that warrant special consideration should speak with the instructor as early as possible to arrange for appropriate flexibility. Job assessments and interviews are not a legitimate reason for additional flexibility.
+
+Citations: Everybody is aware of vast amount of knowledge that is available on the Internet. While every assignment in this class is designed to be solvable using the methods we have discussed in class, the professor recognizes that every student will end up using the Internet at some point or another. In general, web searches should be limited to how to small tasks in Python. As a student, your job is to be honest and forthright with your efforts. It is of utmost importance to your learning that you never just cut-and-paste a solution to a homework problem; instead make the effort to understand the solution well enough to put it into your own words and be sure to cite your sources. Citations should include references (paper, website, or other) for any site that you used to research a solution. If you find yourself spending any significant amount of time searching the web, you should come and see me because it is a sign that something is not working for you in this class.
+
+Academic Honesty: You are expected to read, understand, and follow the University’s policies on Academic Integrity. Each student is expected to do his or her own work. Violations of academic integrity will result in a zero on the corresponding assignment along with harsher penalties for more widespread problems. Here are a few examples of academic dishonesty:
+
+Using Chat GPT to generate all or part of your solution.
+Giving your code to another student.
+Submitting code written by anyone other than yourself as your own.
+Copying text from the web.
+Discussing implementation details of a solution with another student.
+Discussing code-specific details of a solution with another student.
+Soliciting help on websites such as Stack Overflow.
+General discussions with another students are okay but should be done away from the computer leaving only memories.
+
+[Update 2/5/2024]
+Regret clause: (idea borrowed from https://cs50.harvard.edu/x/2024/honesty/Links to an external site.) If you commit some act that is not reasonable but bring it to the attention of the instructor by emailing s.rollins@northeastern.edu within 48 hours, the course may impose local sanctions that may include an unsatisfactory or failing grade for work submitted, but the course will not refer the matter for further disciplinary action except in cases of repeated acts.
+
+You may consider invoking this clause if, for example, you rely too heavily on an external resource like Chat GPT and later realize that your solution may violate the class academic integrity policy.
+
+[End Update 2/5/2024]
+
+Students With Disabilities: The goal is that every student should be able to participate in this course. If you require any special accommodations, let me know immediately so that we can work out appropriate arrangements.
