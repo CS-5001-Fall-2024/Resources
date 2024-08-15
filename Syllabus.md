@@ -29,22 +29,32 @@ Canvas</a>
 # Instructor Information
 
 **Instructor:** Sami Rollins (please call me Sami!)
+
 **Contact:** s.rollins@northeastern.edu or via Teams
+
 **Class and Recitaiton Location:** Graduate School of Business 125 
+
 **Office Hours:** To Be Announced
+
 **Office Hour Location:** To Be Announced
 
 # Teaching Assistant
+
 **TA:** Hsin-Yao Huang
+
 **Contact:** 
+
 **Office Hours:** To Be Announced
+
 **Office Hour Location:** To Be Announced
 
 # Class Hours
+
 Tuesday and Thursday 3:00pm - 4:40pm
+
 Recitation Thursday 4:50pm - 6:20pm
 
-In-person attendance is required for both lecture and recitation. 
+*In-person attendance is required for both lecture and recitation.*
 
 Students are expected to arrive on time and attend all classes; however, attendance will not be taken nor will it be part of the grading rubric. Material is not guaranteed to be available on-demand or remotely.
 
