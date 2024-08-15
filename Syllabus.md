@@ -26,55 +26,45 @@ Canvas</a>
 </thead>
 </table>
 
-# Instructor Information
+# Instructor Information<br/>
+**Instructor:** Sami Rollins (please call me Sami!)<br/>
+**Contact:** s.rollins@northeastern.edu or via Teams<br/>
+**Class and Recitaiton Location:** Graduate School of Business 125 <br/>
+**Office Hours:** *Pending.*<br/>
+**Office Hour Location:** *Pending.*<br/>
 
-**Instructor:** Sami Rollins (please call me Sami!)
+# Teaching Assistant<br/>
+**TA:** Hsin-Yao Huang<br/>
+**Contact:** *Pending.*<br/>
+**Office Hours:** *Pending.*<br/>
+**Office Hour Location:** *Pending.*<br/>
 
-**Contact:** s.rollins@northeastern.edu or via Teams
-
-**Class and Recitaiton Location:** Graduate School of Business 125 
-
-**Office Hours:** *Pending.*
-
-**Office Hour Location:** *Pending.*
-
-# Teaching Assistant
-
-**TA:** Hsin-Yao Huang
-
-**Contact:** *Pending.*
-
-**Office Hours:** *Pending.*
-
-**Office Hour Location:** *Pending.*
-
-# Class Hours
-
-Tuesday and Thursday 3:00pm - 4:40pm
-
+# Class Hours<br/>
+Tuesday and Thursday 3:00pm - 4:40pm<br/>
 Recitation Thursday 4:50pm - 6:20pm
 
-*In-person attendance is required for both lecture and recitation.*
+*In-person attendance is required for both lecture and recitation.*<br/>
 
-Students are expected to arrive on time and attend all classes; however, attendance will not be taken nor will it be part of the grading rubric. Material is not guaranteed to be available on-demand or remotely.
+Students are expected to arrive on time and attend all classes; however, attendance will not be taken nor will it be part of the grading rubric. **Material is not guaranteed to be available on-demand or remotely.**
 
-Students who miss class for reasons of illness or personal emergency should communicate with the instructor early and often to arrange appropriate flexibility. Students who miss class for other reasons should not expect the instructor or TA to provide extra assistance to help them catch up on material covered in a missed class.
+*Students who miss class for reasons of illness or personal emergency should communicate with the instructor early and often to arrange appropriate flexibility. Students who miss class for other reasons should not expect the instructor or TA to provide extra assistance to help them catch up on material covered in a missed class.*
 
-Course Description
+# Course Description<br/>
 This course introduces students to the principles of systematic problem solving through programming. Topics include analysis of problems, modeling a solution, data types, and control structures. Additionally, it will introduce various ways to organize data including a discussion of their advantages and disadvantages.
 
-Course Prerequisites: The course is suitable for students in the ALIGN MS in CS program. It assumes no previous programming experience. We're happy you're here!
+**Course Prerequisites:** The course is suitable for students in the ALIGN MS in CS program. It assumes no previous programming experience. We're happy you're here!
 
- Course Objectives:
+**Course Objectives:**
 
-Develop a basic understanding of how to analyze and break down large problems in order to implement efficient solutions using the Python programming language.
-Determine functionality of code written by oneself and others through reading and tracing short segments of code.
-Write correct and clearly-documented small-to-medium sized programs that others can read, understand, and modify.
-Use generalization for data and functions to limit code duplication.
-Develop tests to exercise implemented code to ensure quality testing in the software development process.
-Select appropriate data types to represent information including using common library classes.
-Assess the impact of data structure and algorithm choice on the run time and storage space needed to execute a program.
-Course Resources
+1. Develop a basic understanding of how to analyze and break down large problems in order to implement efficient solutions using the Python programming language.
+2. Determine functionality of code written by oneself and others through reading and tracing short segments of code.
+3. Write correct and clearly-documented small-to-medium sized programs that others can read, understand, and modify.
+4. Use generalization for data and functions to limit code duplication.
+5. Develop tests to exercise implemented code to ensure quality testing in the software development process.
+6. Select appropriate data types to represent information including using common library classes.
+7. Assess the impact of data structure and algorithm choice on the run time and storage space needed to execute a program.
+
+# Course Resources
 The Course Schedule provides links to a library of videos specifically produced for Align students. These will serve as a useful foundation for your learning.
 
 There is no required text, but the following freely available books may be useful:
