@@ -34,19 +34,19 @@ Canvas</a>
 
 **Class and Recitaiton Location:** Graduate School of Business 125 
 
-**Office Hours:** To Be Announced
+**Office Hours:** *Pending.*
 
-**Office Hour Location:** To Be Announced
+**Office Hour Location:** *Pending.*
 
 # Teaching Assistant
 
 **TA:** Hsin-Yao Huang
 
-**Contact:** 
+**Contact:** *Pending.*
 
-**Office Hours:** To Be Announced
+**Office Hours:** *Pending.*
 
-**Office Hour Location:** To Be Announced
+**Office Hour Location:** *Pending.*
 
 # Class Hours
 
