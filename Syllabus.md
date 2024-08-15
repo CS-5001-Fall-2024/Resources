@@ -65,15 +65,16 @@ This course introduces students to the principles of systematic problem solving 
 7. Assess the impact of data structure and algorithm choice on the run time and storage space needed to execute a program.
 
 # Course Resources
-The Course Schedule provides links to a library of videos specifically produced for Align students. These will serve as a useful foundation for your learning.
+The [Course Schedule](Schedule.md) provides links to a library of videos specifically produced for Align students. These will serve as a useful foundation for your learning.
 
 There is no required text, but the following freely available books may be useful:
 
-How to Think Like a Computer ScientistLinks to an external site. by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
-Welcome to Python for you and meLinks to an external site.
-Think Python, 2nd EditionLinks to an external site. by Allen B. Downey
-Free if you connect to O'Reilly Online via the NU library page for computer science: https://subjectguides.lib.neu.edu/compsci
-Announcements
+- [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/) by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+- [Welcome to Python for you and me](https://pymbook.readthedocs.io/en/latest/)
+- [Think Python, 2nd Edition](https://www.oreilly.com/library/view/think-python-2nd/9781491939406/) by Allen B. Downey
+  * Free if you connect to O'Reilly Online via the NU library page for computer science: [https://subjectguides.lib.neu.edu/compsci](https://subjectguides.lib.neu.edu/compsci)
+
+# Announcements
 Announcements and class discussion will occur on the Microsoft Team set up for the class. Join the team here: CS 5001 - Spring 2024Links to an external site.
 
 Students are responsible for staying current on all announcements made via the class Team. You are expected to participate in discussion on Teams. Make sure to remain professional in your communications.
