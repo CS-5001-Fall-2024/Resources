@@ -105,25 +105,18 @@ While this course is designed to for you to succeed, you will not unless you put
 
 **Grading Scale:**
 
-| A | B | C | D | 
+| A | B | C | F | 
 | :- | :- | :- | :- | 
-|(A) 93.00–100.00 <br/>(A-) 90.00–92.99 |(B+) 86.00–89.99<br/>(B) 83.00–85.99<br/>(B-) 80.00–82.99 | C | D|  
+|(A)  93.00–100.00 <br/>(A-) 90.00–92.99 |(B+) 86.00–89.99<br/>(B)  83.00–85.99<br/>(B-) 80.00–82.99 |(C+) 76.00–79.99<br/>(C)  73.00–75.99<br/>(C-)  70.00–72.99|(F)  0.00–69.99|  
 
+# Policies
+**Seeking Help:** In any course, all students experience some difficulties and frustration and everyone (professor included) makes mistakes. Everybody needs help sometimes, and I would love to provide it! When it is your turn to have problems, do not suffer in silence! Talk to your professor immediately, before things become serious. You can do this via Teams, email, or Zoom. She wants to help you solve these problems and does not make any judgments. Because she cannot always know when trouble starts, you must take the initiative of making initial contact.
 
-76.00–79.99    C+
+🐣 If you have made it this far reading the syllabus, congratulations! To earn five points of extra credit on any one Lab assignment, send Sami a direct Teams message with a image that represents your learning style and a short description of why you chose that image. 
 
-73.00–75.99   C
+**Code Review:** Any student may be asked to come in for code review for any assignment. A student who does not meet with the instructor for a code review in a timely manner will be given a 0 on the assignment in question. A student who is unable to explain their code; answer the instructor's questions about their code; or reproduce their code as expected may receive a deduction of up to 100%, resulting in a 0 on the assignment.
 
-70.00–72.99   C-
-
-0.00–69.99    F
-
-Policies
-Seeking Help: In any course, all students experience some difficulties and frustration and everyone (professor included) makes mistakes. Everybody needs help sometimes, and I would love to provide it! When it is your turn to have problems, do not suffer in silence! Talk to your professor immediately, before things become serious. You can do this via Teams, email, or Zoom. She wants to help you solve these problems and does not make any judgments. Because she cannot always know when trouble starts, you must take the initiative of making initial contact.
-
-Code Review: Any student may be asked to come in for code review for any assignment. A student who does not meet with the instructor for a code review in a timely manner will be given a 0 on the assignment in question. A student who is unable to explain their code; answer the instructor's questions about their code; or reproduce their code as expected may receive a deduction of up to 100%, resulting in a 0 on the assignment.
-
-Late Policy: All deadlines are firm. All Labs and Exams must be completed by the deadline. Projects must be completed by the deadline with the following exceptions:
+**Late Policy:** All deadlines are firm. All Labs and Exams must be completed by the deadline. Projects must be completed by the deadline with the following exceptions:
 
 All students will be allowed one 24-hour extension without penalty to be used on a project of their choosing. This dispensation may only be used for one project.
 All students will be allowed one 24-hour extension with 15% penalty to be used on a project of their choosing. This dispensation may only be used for one project.
