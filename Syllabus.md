@@ -29,7 +29,7 @@ Canvas</a>
 # Instructor Information<br/>
 **Instructor:** Sami Rollins (please call me Sami!)<br/>
 **Contact:** s.rollins@northeastern.edu or via Teams<br/>
-**Class and Recitaiton Location:** Graduate School of Business 125 <br/>
+**Class and Recitation Location:** Graduate School of Business 125 <br/>
 **Office Hours:** *Pending.*<br/>
 **Office Hour Location:** *Pending.*<br/>
 
@@ -88,29 +88,27 @@ While this course is designed to for you to succeed, you will not unless you put
 
 # Assessment
 - 15% Labs (weekly)
-- 50% Projects (6)
+- 45% Projects (6)
+- 5% Interactive Grading Sessions (2)
 - 30% Exams (3)
 - 5% Quizzes and Participation
 
-Labs: Labs will be due weekly. Students are expected to work on labs during the recitation period and complete the exercises before the deadline. Unless otherwise noted, labs are to be completed individually. Labs generally consist of 4 - 8 shorter programming questions that focus on one or two computing concepts.
+**Labs:** Labs will be due weekly. Students are expected to work on labs during the recitation period and complete the exercises before the deadline. Unless otherwise noted, labs are to be completed *individually*. Labs generally consist of 4 - 8 shorter programming questions that focus on one or two computing concepts.
 
-Projects: Students will be assigned six projects to be completed individually unless otherwise noted. Projects are generally longer programs that require students to synthesize what they have learned over the previous weeks. The last project will be due during finals week in lieu of a final exam. Most projects will require an interactive demonstration and grading session with an instructor. Projects may not be resubmitted. All grades are final.
+**Projects:** Students will be assigned six projects to be completed individually unless otherwise noted. Projects are generally longer programs that require students to synthesize what they have learned over the previous weeks. The last project will be due during finals week in lieu of a final exam. Projects may not be resubmitted. All grades are final.
 
-Exams: There will be three (3) exams over the course of the semester in weeks 5, 10, and 14.. Since programming is, by nature, cumulative, so are the exams, although the emphasis will be on recent material. Students must earn a grade of B (83%) or better on at least two exams in order to pass this course. If a student earns below 83% on two or more exams they will be assigned a grade of F regardless of the final grade percentage. Exam make-ups will only be permitted due to extraordinary circumstances and should be communicated as soon as possible.
+**Interactive Grading Session:** Students are required to complete at least two interactive grading sessions with the instructor. During the session, the student will demonstrate their project solution, and the instructor will ask questions about the solution. The grade will be based upon the students' explanation of their solutions and ability to answer questions about their code and approach.
 
-Quizzes and Participation: You are expected to attend class, participate in class discussion, and participate in online discussion on Teams. Quizzes and other in-class exercises may be administered at any time. Failure to complete them as required during your assigned class period will result in a 0 on the assessment.
+**Exams:** There will be three (3) exams over the course of the semester in weeks 5, 10, and 14. Since programming is, by nature, cumulative, so are the exams, although the emphasis will be on recent material. **Students must earn a grade of B (83%) or better on at least two exams in order to pass this course.** If a student earns below 83% on two or more exams they will be assigned a grade of F regardless of the final grade percentage. Exam make-ups will only be permitted due to extraordinary circumstances that should be communicated as soon as possible.
 
-Grading Scale:
+**Quizzes and Participation:** You are expected to attend class, participate in class discussion, and participate in online discussion on Teams. Quizzes and other in-class exercises may be administered at any time. Failure to complete them as required during your assigned class period will result in a 0 on the assessment.
 
-93.00–100.00   A
+**Grading Scale:**
 
- 90.00–92.99    A-
+| A | B | C | D | 
+| :- | :- | :- | :- | 
+|(A) 93.00–100.00 <br/>(A-) 90.00–92.99 |(B+) 86.00–89.99<br/>(B) 83.00–85.99<br/>(B-) 80.00–82.99 | C | D|  
 
-86.00–89.99    B+
-
-83.00–85.99   B
-
-80.00–82.99    B-
 
 76.00–79.99    C+
 
