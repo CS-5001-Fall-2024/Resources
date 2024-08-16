@@ -75,22 +75,23 @@ There is no required text, but the following freely available books may be usefu
   * Free if you connect to O'Reilly Online via the NU library page for computer science: [https://subjectguides.lib.neu.edu/compsci](https://subjectguides.lib.neu.edu/compsci)
 
 # Announcements
-Announcements and class discussion will occur on the Microsoft Team set up for the class. Join the team here: CS 5001 - Spring 2024Links to an external site.
+Announcements and class discussion will occur on the Microsoft Team set up for the class. Join the team here: [CS 5001 - Fall 2024](https://teams.microsoft.com/l/team/19%3A9nlYBJIFq3KpzcLYnx-qEezgyGMYCAnvlTI-eppIXh81%40thread.tacv2/conversations?groupId=28ae1c9a-c508-4f79-9854-ec6d06de5211&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7)
 
 Students are responsible for staying current on all announcements made via the class Team. You are expected to participate in discussion on Teams. Make sure to remain professional in your communications.
 
-Class Workload
+# Class Workload
 It is important for you to be highly engaged in this course. Like most programming courses, we are asking you to change the way you think so that you can express your thoughts to a computer. This is not an easy task.
 
 Students are expected to keep up with the material as it is released each week, to ask for help when they need it (or when feeling overwhelmed), to complete assignments on time, to actively participate in class discussions on Teams. Students are highly encouraged to help and support each other in appropriate ways. We can also often arrange for individual tutoring in cases where there is particular need, so please let me know if you feel you need additional help staying on top of the material.
 
-While this course is designed to for you to succeed, you will not unless you put the time in. In general, you should be prepared to spend 3-4 hours per credit hour. This means that you should plan on spending a minimum of 12-16 hours per week on this course.
+While this course is designed to for you to succeed, you will not unless you put the time in. In general, you should be prepared to spend 3-4 hours per credit hour. This means that you should plan on spending *a minimum of 12-16 hours per week on this course*.
 
-Assessment
-15% Labs (weekly)
-50% Projects (6)
-30% Exams (3)
-5% Quizzes and Participation
+# Assessment
+- 15% Labs (weekly)
+- 50% Projects (6)
+- 30% Exams (3)
+- 5% Quizzes and Participation
+
 Labs: Labs will be due weekly. Students are expected to work on labs during the recitation period and complete the exercises before the deadline. Unless otherwise noted, labs are to be completed individually. Labs generally consist of 4 - 8 shorter programming questions that focus on one or two computing concepts.
 
 Projects: Students will be assigned six projects to be completed individually unless otherwise noted. Projects are generally longer programs that require students to synthesize what they have learned over the previous weeks. The last project will be due during finals week in lieu of a final exam. Most projects will require an interactive demonstration and grading session with an instructor. Projects may not be resubmitted. All grades are final.
