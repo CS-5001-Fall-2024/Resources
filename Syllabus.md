@@ -118,34 +118,32 @@ While this course is designed to for you to succeed, you will not unless you put
 
 **Late Policy:** All deadlines are firm. All Labs and Exams must be completed by the deadline. Projects must be completed by the deadline with the following exceptions:
 
-All students will be allowed one 24-hour extension without penalty to be used on a project of their choosing. This dispensation may only be used for one project.
-All students will be allowed one 24-hour extension with 15% penalty to be used on a project of their choosing. This dispensation may only be used for one project.
+- All students will be allowed one 24-hour extension without penalty to be used on a project of their choosing. This dispensation may only be used for one project.
+- All students will be allowed one 24-hour extension with 15% penalty to be used on a project of their choosing. This dispensation may only be used for one project.
+
 If a student wishes to use both exceptions for the same project they may submit that project late by up to 48 hours for a penalty of 15%.
 
-To use your exception send the professor a Teams message or email in advance of the deadline.
+To use your exception send the professor a Teams message or email **in advance of the deadline.**
 
 Further exceptions to this policy are made only in the case of a verifiable medical or family emergency. Extensions and makeup exams must be arranged PRIOR to the original deadline unless in case of extreme emergency (such as an emergency room visit).
 
-Students who have legitimate, personal circumstances that warrant special consideration should speak with the instructor as early as possible to arrange for appropriate flexibility. Job assessments and interviews are not a legitimate reason for additional flexibility.
+Students who have legitimate, personal circumstances that warrant special consideration should speak with the instructor as early as possible to arrange for appropriate flexibility. *Job assessments and interviews are not a legitimate reason for additional flexibility.*
 
-Citations: Everybody is aware of vast amount of knowledge that is available on the Internet. While every assignment in this class is designed to be solvable using the methods we have discussed in class, the professor recognizes that every student will end up using the Internet at some point or another. In general, web searches should be limited to how to small tasks in Python. As a student, your job is to be honest and forthright with your efforts. It is of utmost importance to your learning that you never just cut-and-paste a solution to a homework problem; instead make the effort to understand the solution well enough to put it into your own words and be sure to cite your sources. Citations should include references (paper, website, or other) for any site that you used to research a solution. If you find yourself spending any significant amount of time searching the web, you should come and see me because it is a sign that something is not working for you in this class.
+**Citations:** Everybody is aware of vast amount of knowledge that is available on the Internet. While every assignment in this class is designed to be solvable using the methods we have discussed in class, the professor recognizes that every student will end up using the Internet at some point or another. In general, web searches should be limited to how to small tasks in Python. As a student, your job is to be honest and forthright with your efforts. It is of utmost importance to your learning that you never just cut-and-paste a solution to a homework problem; instead make the effort to understand the solution well enough to put it into your own words and be sure to cite your sources. Citations should include references (paper, website, or other) for any site that you used to research a solution. If you find yourself spending any significant amount of time searching the web, you should come and see me because it is a sign that something is not working for you in this class.
 
-Academic Honesty: You are expected to read, understand, and follow the University’s policies on Academic Integrity. Each student is expected to do his or her own work. Violations of academic integrity will result in a zero on the corresponding assignment along with harsher penalties for more widespread problems. Here are a few examples of academic dishonesty:
+**Academic Honesty:** You are expected to read, understand, and follow the University’s policies on Academic Integrity. Each student is expected to do his or her own work. Violations of academic integrity will result in a zero on the corresponding assignment along with harsher penalties for more widespread problems. All instances of academic dishonesty will be reported to the [Office of Student Conduct and Conflict Resolution](https://osccr.sites.northeastern.edu/). Here are a few examples of academic dishonesty:
 
-Using Chat GPT to generate all or part of your solution.
-Giving your code to another student.
-Submitting code written by anyone other than yourself as your own.
-Copying text from the web.
-Discussing implementation details of a solution with another student.
-Discussing code-specific details of a solution with another student.
-Soliciting help on websites such as Stack Overflow.
-General discussions with another students are okay but should be done away from the computer leaving only memories.
+- Using Chat GPT to generate all or part of your solution.
+- Giving your code to another student.
+- Submitting code written by anyone other than yourself as your own.
+- Copying text from the web.
+- Discussing implementation details of a solution with another student.
+- Discussing code-specific details of a solution with another student.
+- Soliciting help on websites such as Stack Overflow.
+- General discussions with another students are okay but should be done away from the computer leaving only memories.
 
-[Update 2/5/2024]
-Regret clause: (idea borrowed from https://cs50.harvard.edu/x/2024/honesty/Links to an external site.) If you commit some act that is not reasonable but bring it to the attention of the instructor by emailing s.rollins@northeastern.edu within 48 hours, the course may impose local sanctions that may include an unsatisfactory or failing grade for work submitted, but the course will not refer the matter for further disciplinary action except in cases of repeated acts.
+**Students With Disabilities:** 
 
-You may consider invoking this clause if, for example, you rely too heavily on an external resource like Chat GPT and later realize that your solution may violate the class academic integrity policy.
+> Northeastern University and Disability Access Services are committed to providing disability services that enable students who qualify under Section 504 of the Rehabilitation Act and the Americans with Disabilities Act Amendments Act to participate fully in the activities of the university. 
 
-[End Update 2/5/2024]
-
-Students With Disabilities: The goal is that every student should be able to participate in this course. If you require any special accommodations, let me know immediately so that we can work out appropriate arrangements.
+If you require accommodations we will work with [Disability Access Services](https://disabilityaccessservices.sites.northeastern.edu/) to ensure you have an equitable learning environment.
