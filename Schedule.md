@@ -36,7 +36,7 @@ Canvas</a>
 <table>
 <thead>
 <tr>
-<th width="75px">Week</th>
+<th width="125px">Week</th>
 <th width="225px">Topics</th>
 <th width="1225px">Code/Resources</th>
 <th width="225px">Assignments Due</th>
