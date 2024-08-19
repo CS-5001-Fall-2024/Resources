@@ -59,7 +59,7 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due - Fri 9/6</b> - <a href="https://forms.gle/eaZFN2Fer84DnBhZ8">Background Survey</a><br/></td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -75,7 +75,8 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due - Mon 9/9</b> - <a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab1.md">Lab 1</a><br/>
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
