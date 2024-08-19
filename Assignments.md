@@ -25,3 +25,12 @@ Canvas</a>
 </tr>
 </thead>
 </table>
+
+# Labs
+*Labs are due at 11:59pm on the day of the deadline unless otherwise noted.*
+
+| Lab | Due |
+| :- | :- |
+| [Lab 1](https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab1.md) | Monday, September 9, 2024 |
+
+# Projects
