@@ -52,11 +52,20 @@ Canvas</a>
 <a href="https://northeastern.instructure.com/courses/192359/pages/module-1-getting-started">Module 1</a><br/>
 <ul>
 <li>What is an algorithm?</li>
+<li>Variables</li>
+<li>Assignment</li>
+<li>Arithmetic Expressions</li>
+<li>Concatenation</li>
 </ul>
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="https://peps.python.org/pep-0008/">Python Style Guide</a><br/>
+<a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a><br/>
+<a href="https://pythontutor.com/">Python Tutor</a>
+
+</td>
 
 <!-- Assignments -->
 <td><b>Due - Fri 9/6:</b><br/><a href="https://forms.gle/eaZFN2Fer84DnBhZ8">Background Survey</a><br/></td>
