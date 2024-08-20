@@ -64,6 +64,7 @@ Canvas</a>
 <a href="https://peps.python.org/pep-0008/">Python Style Guide</a><br/>
 <a href="https://google.github.io/styleguide/pyguide.html">Google Python Style Guide</a><br/>
 <a href="https://pythontutor.com/">Python Tutor</a><br/>
+<a href="https://marko-knoebl.github.io/slides/python-beginner-collection-en.html">Useful Online Collection of Slides</a><br/>
 <a href="https://cs-5001-shell.github.io/introduction/">Class Introduction Slides</a>
 
 </td>
