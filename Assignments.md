@@ -32,5 +32,30 @@ Canvas</a>
 | Lab | Due |
 | :- | :- |
 | [Lab 1](https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab1.md) | Monday, September 9, 2024 |
+| Lab 2 | Pending. |
+| Lab 3 | Pending. |
+| Lab 4 | Pending. |
+| Lab 5 | Pending. |
+| Lab 6 | Pending. |
+| Lab 7 | Pending. |
+| Lab 8 | Pending. |
+| Lab 9 | Pending. |
+| Lab 10 | Pending. |
 
 # Projects
+
+| Project | Due |
+| :- | :- |
+| Project 1 | Pending. |
+| Project 2 | Pending. |
+| Project 3 | Pending. |
+| Project 4 | Pending. |
+| Project 5 | Pending. |
+| Project 6 | Pending. |
+
+# Participation Assignments
+
+| Assignment | Due |
+| :- | :- |
+| [Background Survey](https://forms.gle/uqhpRsoA5UH4jL1A9) | Friday, September 6, 2024 - 11:59pm |
+| Others | Pending. |
