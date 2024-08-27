@@ -230,7 +230,7 @@ Project 3
 
 <!-- Topics -->
 <td>
-<p style="color:green;">Exam 2</p>
+<span style="color:green;">Exam 2</span>
 </td>
 
 <!-- Resources -->
