@@ -230,6 +230,7 @@ Project 3
 
 <!-- Topics -->
 <td>
+$${\color{green}Exam 2}$$
 <span style="color:green;">Exam 2</span>
 </td>
 
