@@ -121,7 +121,8 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due</b><br/>
+Project 1</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -133,6 +134,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
+<p style="color:green;">Exam 1</p>
 </td>
 
 <!-- Resources -->
@@ -158,7 +160,9 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due</b><br/>
+Project 2
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -212,7 +216,9 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due</b><br/>
+Project 3
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -224,6 +230,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
+<p style="color:green;">Exam 2</p>
 </td>
 
 <!-- Resources -->
@@ -248,7 +255,9 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due</b><br/>
+Project 4
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -285,7 +294,8 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due</b><br/>
+Project 5</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -297,6 +307,7 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
+<p style="color:green;">Exam 3</p>
 </td>
 
 <!-- Resources -->
@@ -311,7 +322,8 @@ Canvas</a>
 
 <!-- Finals Week -->
 <tr>
-<td colspan=4><b>Finals week</b><br/>12/9</td>
+<td><b>Finals week</b><br/>12/9</td>
+<td colspan=3>Project 6</td>
 </tr>
 
 
