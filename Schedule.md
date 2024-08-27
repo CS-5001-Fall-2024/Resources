@@ -134,7 +134,7 @@ Project 1</td>
 
 <!-- Topics -->
 <td>
-<p style="color:green;">Exam 1</p>
+$${\color{green}Exam 1}$$
 </td>
 
 <!-- Resources -->
@@ -231,7 +231,6 @@ Project 3
 <!-- Topics -->
 <td>
 $${\color{green}Exam 2}$$
-<span style="color:green;">Exam 2</span>
 </td>
 
 <!-- Resources -->
@@ -308,7 +307,7 @@ Project 5</td>
 
 <!-- Topics -->
 <td>
-<p style="color:green;">Exam 3</p>
+$${\color{green}Exam 3}$$
 </td>
 
 <!-- Resources -->
