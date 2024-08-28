@@ -34,7 +34,7 @@ Canvas</a>
 **Office Hour Location:** Carnegie 201<br/>
 
 # Teaching Assistant<br/>
-**TA:** Hsin-Yao Huang<br/>
+**TA:** Hsin-Yao Huang (Amy)<br/>
 **Contact:** huang.hsin@northeastern.edu or via the class Team<br/>
 **Office Hours:** Monday 1pm - 2pm (**virtual**); Tuesday 4:50pm - 5:50pm (**GSB**); Wednesday 1pm - 2pm (**virtual**) <br/>
 **Office Hour Location:** Virtual office hours will take place in the "Amys Office Hours" channel in the class Team. In-person office hours will take place outside of the classroom in GSB.<br/>
