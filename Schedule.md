@@ -81,7 +81,26 @@ Canvas</a>
 <td><b>2</b><br/>9/10 - 9/12</td>
 
 <!-- Topics -->
-<td></td>
+<td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-3-functions-and-testing">Module 3</a><br/>
+<ul>
+<li>What is a function?</li>
+<li>Calling functions</li>
+<li>Writing functions</li>
+</ul>
+</td>
+
+<td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-2-boolean-expressions-and-conditionals">Module 2</a><br/>
+<ul>
+<li>Boolean Expressions</li>
+<li>Conditional Statements</li>
+<li>Nested if</li>
+<li>Multiway Conditions</li>
+<li>Logic Operators</li>
+</ul>
+</td>
+
 
 <!-- Resources -->
 <td></td>
