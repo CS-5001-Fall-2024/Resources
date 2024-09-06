@@ -88,9 +88,7 @@ Canvas</a>
 <li>Calling functions</li>
 <li>Writing functions</li>
 </ul>
-</td>
 
-<td>
 <a href="https://northeastern.instructure.com/courses/192359/pages/module-2-boolean-expressions-and-conditionals">Module 2</a><br/>
 <ul>
 <li>Boolean Expressions</li>
