@@ -122,7 +122,7 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td><b>Due - Mon 9/16</b>:<br/><a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab2.md">Lab 2</a><br/>
 </tr>
 <!------------------------------->
 <!------------------------------->
