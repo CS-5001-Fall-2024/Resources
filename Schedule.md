@@ -139,7 +139,7 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b><br/>
+<td><b>Due - Thurs 9/26</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md">Project 1</a><br/>
 Project 1</td>
 </tr>
 <!------------------------------->

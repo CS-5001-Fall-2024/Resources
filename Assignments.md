@@ -43,10 +43,11 @@ Canvas</a>
 | Lab 10 | Pending. |
 
 # Projects
+*Labs are due at 3:00pm on the day of the deadline unless otherwise noted.*
 
 | Project | Due |
 | :- | :- |
-| Project 1 | Pending. |
+| [Project 1](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md) | Thursday, September 26, 2024 |
 | Project 2 | Pending. |
 | Project 3 | Pending. |
 | Project 4 | Pending. |
