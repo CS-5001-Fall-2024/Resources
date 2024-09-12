@@ -101,7 +101,9 @@ Canvas</a>
 
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="https://cs-5001-fall-2024.github.io/week2/">Functions and Conditions Slides</a>
+</td>
 
 <!-- Assignments -->
 <td><b>Due - Mon 9/9</b>:<br/><a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab1.md">Lab 1</a><br/>
