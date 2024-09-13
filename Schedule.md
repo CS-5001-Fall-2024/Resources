@@ -118,7 +118,29 @@ Canvas</a>
 <td><b>3</b><br/>9/17 - 9/19</td>
 
 <!-- Topics -->
-<td></td>
+<td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-3-functions-and-testing">Module 3</a><br/>
+<ul>
+<li>Parameters and scope</li>
+<li>Return statements</li>
+<li>Testing your functions</li>
+</ul>
+
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-4-while-loops">Module 4</a>
+<ul>
+<li>while loops</li>
+<li>Loops in action</li>
+<li>User input</li>
+<li>Debugging</li>
+</ul>
+
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-5-strings-and-lists">Module 5</a>
+<ul>
+<li>Strings and Lists</li>
+<li>Immutable Objects</li>
+<li>Strings as Objects</li>
+</ul>
+</td>
 
 <!-- Resources -->
 <td></td>
