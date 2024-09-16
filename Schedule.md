@@ -163,7 +163,10 @@ Canvas</a>
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due - Thurs 9/26</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md">Project 1</a><br/></td>
+<td>
+<b>Due - Mon 9/23</b>:<br/><a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab3.md">Lab 3</a><br/>
+<b>Due - Thurs 9/26</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md">Project 1</a><br/>
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
