@@ -163,7 +163,10 @@ Canvas</a>
 <td></td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/InteractiveGrading.md">Interactive Grading Guidance</a><br/>
+<a href="https://outlook.office.com/bookwithme/user/9b619a6d2dfe4abfa082c6896522df8c@northeastern.edu/meetingtype/_i3wGH7ECkqRngEvMtqZMQ2?bookingcode=ea6a08f6-d629-4e1f-ba3f-bbe08a7b7948&anonymous&ep=mlink">Project 1 Interactive Grading Sign-up</a>
+</td>
 
 <!-- Assignments -->
 <td>
