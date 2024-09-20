@@ -188,7 +188,9 @@ $${\color{green}Exam 1}$$
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="Exam1Review.md">Exam 1 Review</a><br/>
+</td>
 
 <!-- Assignments -->
 <td><b>Due</b></td>
