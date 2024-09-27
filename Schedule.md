@@ -223,6 +223,7 @@ $${\color{green}Exam 1}$$
 
 <!-- Assignments -->
 <td>
+<b>Due - Mon 10/7</b>:<br/><a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab5.md">Lab b</a><br/>
 <b>Due - Thurs 10/10</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md">Project 2</a><br/>
 </td>
 </tr>
