@@ -34,7 +34,7 @@ Canvas</a>
 | [Lab 1](https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab1.md) | Monday, September 9, 2024 |
 | [Lab 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab2.md) | Monday, September 16, 2024 |
 | [Lab 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab3.md) | Monday, September 23, 2024 |
-| Lab 4 | Pending. |
+| [Lab 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab4.md) | Monday, September 30, 2024 |
 | Lab 5 | Pending. |
 | Lab 6 | Pending. |
 | Lab 7 | Pending. |
@@ -48,7 +48,7 @@ Canvas</a>
 | Project | Due |
 | :- | :- |
 | [Project 1](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md) | Thursday, September 26, 2024 |
-| Project 2 | Pending. |
+| [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
 | Project 3 | Pending. |
 | Project 4 | Pending. |
 | Project 5 | Pending. |
