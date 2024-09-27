@@ -202,6 +202,7 @@ $${\color{green}Exam 1}$$
 <!-- Assignments -->
 <td>
 <b>Due - Mon 9/30</b>:<br/><a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab4.md">Lab 4</a><br/>
+<b>Due - Wed 10/2</b>:<br/><a href="https://northeastern.instructure.com/courses/192359/quizzes/613179">Practice Exam</a><br/>
 </td>
 </tr>
 <!------------------------------->
