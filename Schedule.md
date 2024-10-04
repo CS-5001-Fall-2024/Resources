@@ -161,9 +161,11 @@ Canvas</a>
 
 <!-- Topics -->
 <td>
-<a href="https://northeastern.instructure.com/courses/192359/pages/module-7-recursion">Module 7</a>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-6-for-loops">Module 6</a>
 <ul>
-<li>Recursion</li>
+<li>for loops</li>
+<li>Iteration over a list</li>
+<li>Range over a list</li>
 </ul>
 </td>
 
@@ -214,7 +216,10 @@ $${\color{green}Exam 1}$$
 
 <!-- Topics -->
 <td>
-
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-7-recursion">Module 7</a>
+<ul>
+<li>Recursion</li>
+</ul>
 </td>
 
 <!-- Resources -->
