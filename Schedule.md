@@ -250,7 +250,9 @@ $${\color{green}Exam 1}$$
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td>
+<b>Due - Tues 10/15</b>:<br/><a href="https://github.com/CS-5001-Fall-2024/Assigments/blob/main/Lab6.md">Lab 6</a><br/>
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->

@@ -36,7 +36,7 @@ Canvas</a>
 | [Lab 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab3.md) | Monday, September 23, 2024 |
 | [Lab 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab4.md) | Monday, September 30, 2024 |
 | [Lab 5](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab5.md) | Monday, October 7, 2024 |
-| Lab 6 | Pending. |
+| [Lab 6](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab6.md) | Tuesday, October 15, 2024 |
 | Lab 7 | Pending. |
 | Lab 8 | Pending. |
 | Lab 9 | Pending. |
