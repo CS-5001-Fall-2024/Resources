@@ -225,7 +225,9 @@ $${\color{green}Exam 1}$$
 <!-- Resources -->
 <td>
 <a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/InteractiveGrading.md">Interactive Grading Guidance</a><br/>
-<a href="https://outlook.office.com/bookwithme/user/9b619a6d2dfe4abfa082c6896522df8c@northeastern.edu/meetingtype/_i3wGH7ECkqRngEvMtqZMQ2?bookingcode=c2a78f9a-9cb0-473d-880d-42c44691c415&anonymous&ep=mLinkFromTile">Project 2 Interactive Grading Sign-up</a>
+<a href="https://outlook.office.com/bookwithme/user/9b619a6d2dfe4abfa082c6896522df8c@northeastern.edu/meetingtype/_i3wGH7ECkqRngEvMtqZMQ2?bookingcode=c2a78f9a-9cb0-473d-880d-42c44691c415&anonymous&ep=mLinkFromTile">Project 2 Interactive Grading Sign-up</a><br/>
+<hr/>
+<a href="https://cs-5001-fall-2024.github.io/style-review-recursion/">Project and Recursion Slides</a>
 </td>
 
 <!-- Assignments -->
