@@ -304,7 +304,9 @@ Project 3
 
 <!-- Topics -->
 <td>
-$${\color{green}Exam 2}$$
+$${\color{green}Exam 2}$$ - Thursday 3-5pm<br/>
+Co-op Presentation - Thea Celestine - Thursday 5:15-6:15pm
+
 </td>
 
 <!-- Resources -->
