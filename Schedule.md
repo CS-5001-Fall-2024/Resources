@@ -304,13 +304,14 @@ Project 3
 
 <!-- Topics -->
 <td>
-$${\color{green}Exam 2}$$ - Thursday 3-5pm<br/>
-Co-op Presentation - Thea Celestine - Thursday 5:15-6:15pm
+$${\color{green}Exam 2}$$ - Thurs 3-5pm<br/>
 
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
+</td>
 
 <!-- Assignments -->
 <td><b>Due</b></td>
