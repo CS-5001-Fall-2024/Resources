@@ -249,7 +249,9 @@ $${\color{green}Exam 1}$$
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<b>No office hours on Mon 10/14!</b>
+</td>
 
 <!-- Assignments -->
 <td>
