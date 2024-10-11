@@ -246,6 +246,10 @@ $${\color{green}Exam 1}$$
 
 <!-- Topics -->
 <td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-8-error-handling">Module 8</a>
+<ul>
+<li>Error Handling</li>
+</ul>
 </td>
 
 <!-- Resources -->
