@@ -292,8 +292,8 @@ $${\color{green}Exam 1}$$
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b><br/>
-Project 3
+<td>
+<b>Due - Thurs 10/31</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md">Project 3</a><br/>
 </td>
 </tr>
 <!------------------------------->

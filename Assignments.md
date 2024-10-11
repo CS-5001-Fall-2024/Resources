@@ -49,7 +49,7 @@ Canvas</a>
 | :- | :- |
 | [Project 1](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project1.md) | Thursday, September 26, 2024 |
 | [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
-| Project 3 | Pending. |
+| [Project 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md) | Thursday, October 31, 2024 |
 | Project 4 | Pending. |
 | Project 5 | Pending. |
 | Project 6 | Pending. |
