@@ -30,14 +30,20 @@ Canvas</a>
 **Instructor:** Sami Rollins (please call me Sami!)<br/>
 **Contact:** s.rollins@northeastern.edu or via Teams<br/>
 **Class and Recitation Location:** Graduate School of Business (GSB) 125 <br/>
-**Office Hours:** Monday 3pm - 4pm; Friday 1:30pm - 2:30pm, and by appointment<br/>
+**Office Hours:** Monday 3pm - 4pm (**Carnegie 201**); Friday 1:30pm - 2:30pm
+(**Virtual**); Wednesday by announcement; and by appointment<br/>
 **Office Hour Location:** Carnegie 201<br/>
 
 # Teaching Assistant<br/>
 **TA:** Hsin-Yao Huang (Amy)<br/>
 **Contact:** huang.hsin@northeastern.edu or via the class Team<br/>
-**Office Hours:** Monday 1pm - 2pm (**virtual**); Tuesday 4:50pm - 5:50pm (**GSB**); Wednesday 1pm - 2pm (**virtual**) <br/>
-**Office Hour Location:** Virtual office hours will take place in the "Amys Office Hours" channel in the class Team. In-person office hours will take place outside of the classroom in GSB.<br/>
+**Office Hours:** Monday 1pm - 2pm (**virtual**); Tuesday 4:50pm - 5:50pm
+(**GSB**); Wednesday 1pm - 2pm (**virtual**) <br/>
+**TA:** Wenyu Yang<br/>
+**Contact:** yang.wenyu1@northeastern.edu or via the class Team<br/>
+**Office Hours:** Monday 12 - 1pm (**virtual**); Wednesday 12 - 1pm (**GSB**)<br/>
+**Office Hour Location:** Virtual office hours will take place in the "TA Office Hours" channel in the class Team. In-person office hours will take place outside of the classroom in GSB.<br/>
+
 
 # Class Hours<br/>
 Tuesday and Thursday 3:00pm - 4:40pm<br/>
