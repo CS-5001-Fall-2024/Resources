@@ -272,6 +272,11 @@ $${\color{green}Exam 1}$$
 
 <!-- Topics -->
 <td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-9-dictionaries-and-sets">Module 9</a>
+<ul>
+<li>Dictionaries</li>
+<li>Sets</li>
+</ul>
 </td>
 
 <!-- Resources -->
