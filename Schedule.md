@@ -300,7 +300,11 @@ $${\color{green}Exam 1}$$
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/InteractiveGrading.md">Interactive Grading Guidance</a><br/>
+<a href="https://outlook.office.com/bookwithme/user/9b619a6d2dfe4abfa082c6896522df8c@northeastern.edu/meetingtype/_i3wGH7ECkqRngEvMtqZMQ2?bookingcode=853170ee-c02e-4db1-a863-2ffbf36c715d&anonymous&ep=mLinkFromTile">Project 3 Interactive Grading Sign-up</a><br/>
+<hr/>
+</td>
 
 <!-- Assignments -->
 <td>
@@ -319,11 +323,12 @@ $${\color{green}Exam 1}$$
 <!-- Topics -->
 <td>
 $${\color{green}Exam 2}$$ - Thurs 3-5pm<br/>
-
 </td>
 
 <!-- Resources -->
 <td>
+<i>Project 3 may be submitted without penalty until Monday, 11/4 at 11:59pm.</i>
+<hr/>
 Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 </td>
 
