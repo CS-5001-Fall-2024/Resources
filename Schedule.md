@@ -297,6 +297,11 @@ $${\color{green}Exam 1}$$
 
 <!-- Topics -->
 <td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-10-classes-and-objects">Module 10</a>
+<ul>
+<li>Classes and Objects</li>
+<li>Unit testing</li>
+</ul>
 </td>
 
 <!-- Resources -->
