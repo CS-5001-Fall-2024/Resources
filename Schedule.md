@@ -306,6 +306,8 @@ $${\color{green}Exam 1}$$
 
 <!-- Resources -->
 <td>
+<a href="https://cs-5001-shell.github.io/classes-and-objects/">Classes and Objects Slides</a>
+<hr/>
 <a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/InteractiveGrading.md">Interactive Grading Guidance</a><br/>
 <a href="https://outlook.office.com/bookwithme/user/9b619a6d2dfe4abfa082c6896522df8c@northeastern.edu/meetingtype/_i3wGH7ECkqRngEvMtqZMQ2?bookingcode=853170ee-c02e-4db1-a863-2ffbf36c715d&anonymous&ep=mLinkFromTile">Project 3 Interactive Grading Sign-up</a>
 <hr/>
