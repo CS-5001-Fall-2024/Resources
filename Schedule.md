@@ -359,8 +359,9 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b><br/>
-Project 4
+<td>
+<b>Due - Thurs 11/14</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project4.md">Project 4</a><br/>
+
 </td>
 </tr>
 <!------------------------------->
