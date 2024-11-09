@@ -353,6 +353,15 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 
 <!-- Topics -->
 <td>
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-11-stacks-and-queues">Module 11</a>
+<ul>
+<li>Stacks and Queues</li>
+</ul>
+
+<a href="https://northeastern.instructure.com/courses/192359/pages/module-12-efficiency-searching-and-sorting">Module 12</a>
+<ul>
+<li>Efficiency</li>
+</ul>
 </td>
 
 <!-- Resources -->
