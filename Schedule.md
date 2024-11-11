@@ -391,7 +391,9 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td>
+<b>Due - Mon 11/18</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab9.md">Lab 9 - parts 1 and 2</a><br/>
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -410,8 +412,8 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b><br/>
-Project 5</td>
+<td>
+<b>Due - Tues 11/26</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md">Project 5</a><br/></td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -430,7 +432,9 @@ $${\color{green}Exam 3}$$
 <td></td>
 
 <!-- Assignments -->
-<td><b>Due</b></td>
+<td>
+<b>Due - Mon 12/2</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab10.md">Lab 10</a><br/>
+</td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -439,10 +443,8 @@ $${\color{green}Exam 3}$$
 <!-- Finals Week -->
 <tr>
 <td><b>Finals week</b><br/>12/9</td>
-<td colspan=3>Project 6</td>
+<td colspan=3><b>Due - Thurs 12/12</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project6.md">Project 6</a><br/></td>
 </tr>
-
-
 </table>
 
 <!-- 
