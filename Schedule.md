@@ -365,7 +365,9 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Exam2Debrief.md">Exam 2 Notes on Common Errors</a>
+</td>
 
 <!-- Assignments -->
 <td>
