@@ -413,7 +413,7 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 
 <!-- Assignments -->
 <td>
-<b>Due - Tues 11/26</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md">Project 5</a><br/></td>
+<b>Due - Mon 11/25</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab10.md">Lab 10</a><br/></td>
 </tr>
 <!------------------------------->
 <!------------------------------->
@@ -433,7 +433,7 @@ $${\color{green}Exam 3}$$
 
 <!-- Assignments -->
 <td>
-<b>Due - Mon 12/2</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Lab10.md">Lab 10</a><br/>
+<b>Due - Mon 12/2</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md">Project 5</a><br/>
 </td>
 </tr>
 <!------------------------------->
