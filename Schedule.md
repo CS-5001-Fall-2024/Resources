@@ -367,6 +367,10 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 <!-- Resources -->
 <td>
 <a href="https://github.com/CS-5001-Fall-2024/Resources/blob/main/Exam2Debrief.md">Exam 2 Notes on Common Errors</a>
+<hr/>
+<a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/InteractiveGrading.md">Interactive Grading Guidance</a><br/>
+<a href="https://outlook.office.com/bookwithme/user/9b619a6d2dfe4abfa082c6896522df8c@northeastern.edu/meetingtype/_i3wGH7ECkqRngEvMtqZMQ2?bookingcode=6a46f3e6-0178-4eff-b248-b46fee4645ab&anonymous&ep=mLinkFromTile">Project 4 Interactive Grading Sign-up</a>
+
 </td>
 
 <!-- Assignments -->
