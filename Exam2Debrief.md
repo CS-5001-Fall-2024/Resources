@@ -1,6 +1,7 @@
 # Exam 2 Debrief
 
 <hr/>
+
 `add_move`
 
 This question was designed to assess understanding of how exceptions are raised; however, many students misunderstood the question.
