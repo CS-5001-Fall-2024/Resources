@@ -389,10 +389,13 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 
 <!-- Topics -->
 <td>
+<a href="https://www.w3schools.com/whatis/whatis_json.asp">JSON</a><br/>
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="https://www.json.org/json-en.html">JSON Specification</a><br/>
+</td>
 
 <!-- Assignments -->
 <td>
