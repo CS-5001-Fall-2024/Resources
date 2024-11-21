@@ -51,8 +51,8 @@ Canvas</a>
 | [Project 2](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project2.md) | Thursday, October 10, 2024 |
 | [Project 3](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project3.md) | Thursday, October 31, 2024 |
 | [Project 4](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project4.md) | Thursday, November 14, 2024 |
-| Project 5 | Pending. |
-| Project 6 | Pending. |
+| [Project 5](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md) | Tuesday, December 3, 2024 |
+| [Project 6](https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project6.md) | Thursday, December 12, 2024 |
 
 # Participation Assignments
 
