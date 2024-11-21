@@ -444,7 +444,7 @@ $${\color{green}Exam 3}$$
 
 <!-- Assignments -->
 <td>
-<b>Due - Mon 12/2</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md">Project 5</a><br/>
+<b>Due - Tues 12/3</b><br/><a href="https://github.com/CS-5001-Fall-2024/Assignments/blob/main/Project5.md">Project 5</a><br/>
 </td>
 </tr>
 <!------------------------------->
