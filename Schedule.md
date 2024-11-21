@@ -390,11 +390,15 @@ Co-op Presentation by Thea Celestine - Thursday 5:15-6:15pm
 <!-- Topics -->
 <td>
 <a href="https://www.w3schools.com/whatis/whatis_json.asp">JSON</a><br/>
+<a href="https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http">HTTP</a><br/>
+<a href="https://www.w3schools.com/html/">HTML</a><br/>
+<a href="https://flask.palletsprojects.com/en/stable/tutorial/">Flask</a><br/>
 </td>
 
 <!-- Resources -->
 <td>
 <a href="https://www.json.org/json-en.html">JSON Specification</a><br/>
+<a href="https://github.com/srollins/software-dev-materials/blob/master/notes/advanced/web.md">Web Overview</a>
 </td>
 
 <!-- Assignments -->
