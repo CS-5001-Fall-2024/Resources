@@ -440,7 +440,9 @@ $${\color{green}Exam 3}$$
 </td>
 
 <!-- Resources -->
-<td></td>
+<td>
+<a href="Exam3Review.md">Exam 3 Review</a><br/>
+</td>
 
 <!-- Assignments -->
 <td>
